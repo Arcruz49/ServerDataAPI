@@ -1,0 +1,12 @@
+/home/arthur.cruz/ServerDataAPI/publish/ServerDataAPI
+/home/arthur.cruz/ServerDataAPI/publish/appsettings.Development.json
+/home/arthur.cruz/ServerDataAPI/publish/appsettings.json
+/home/arthur.cruz/ServerDataAPI/publish/ServerDataAPI.dll
+/home/arthur.cruz/ServerDataAPI/publish/ServerDataAPI.deps.json
+/home/arthur.cruz/ServerDataAPI/publish/ServerDataAPI.runtimeconfig.json
+/home/arthur.cruz/ServerDataAPI/publish/ServerDataAPI.pdb
+/home/arthur.cruz/ServerDataAPI/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/arthur.cruz/ServerDataAPI/publish/Microsoft.OpenApi.dll
+/home/arthur.cruz/ServerDataAPI/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/arthur.cruz/ServerDataAPI/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/arthur.cruz/ServerDataAPI/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

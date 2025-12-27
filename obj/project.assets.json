@@ -482,19 +482,19 @@
     ]
   },
   "packageFolders": {
-    "/home/arthurcruz/.nuget/packages/": {}
+    "/home/arthur.cruz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arthurcruz/Documentos/Projetos/ServerDataAPI/ServerDataAPI.csproj",
+      "projectUniqueName": "/home/arthur.cruz/Documents/Projetos/ServerDataAPI/ServerDataAPI.csproj",
       "projectName": "ServerDataAPI",
-      "projectPath": "/home/arthurcruz/Documentos/Projetos/ServerDataAPI/ServerDataAPI.csproj",
-      "packagesPath": "/home/arthurcruz/.nuget/packages/",
-      "outputPath": "/home/arthurcruz/Documentos/Projetos/ServerDataAPI/obj/",
+      "projectPath": "/home/arthur.cruz/Documents/Projetos/ServerDataAPI/ServerDataAPI.csproj",
+      "packagesPath": "/home/arthur.cruz/.nuget/packages/",
+      "outputPath": "/home/arthur.cruz/Documents/Projetos/ServerDataAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/arthurcruz/.nuget/NuGet/NuGet.Config"
+        "/home/arthur.cruz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
