@@ -31,3 +31,4 @@
 /home/arthurcruz/Documentos/Projetos/ServerDataAPI/obj/Debug/net8.0/ServerDataAPI.pdb
 /home/arthurcruz/Documentos/Projetos/ServerDataAPI/obj/Debug/net8.0/ServerDataAPI.genruntimeconfig.cache
 /home/arthurcruz/Documentos/Projetos/ServerDataAPI/obj/Debug/net8.0/ref/ServerDataAPI.dll
+/home/arthurcruz/Documentos/Projetos/ServerDataAPI/obj/Debug/net8.0/ServerDataAPI.sourcelink.json
