@@ -69,5 +69,23 @@ namespace ServerDataAPI.Controllers
             var parts = line.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             return long.Parse(parts[1], CultureInfo.InvariantCulture); 
         }
+
+        [HttpGet("GetUptime")]
+        public IActionResult GetUptime()
+        {
+            try
+            {
+                var tempRaw = System.IO.File.ReadAllText("/sys/class/thermal/thermal_zone2/temp");
+                double tempC = double.Parse(tempRaw) / 1000.0;
+
+                return Ok(new { temperature = tempC });
+            }
+            catch(Exception ex)
+            {
+                return StatusCode(500, $"Error: {ex.Message}");
+            }
+        }
+
+        // uptime fica nesse caminho arthurcruz@fedora:/proc$ nano uptime
     }
 }
